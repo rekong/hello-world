@@ -1,7 +1,7 @@
 # hello-world
-Just another repository
+~~~~~~~~~~~~~~~~~~
 Salutation Humans!
-
+~~~~~~~~~~~~~~~~~~~
 My name is Richard, you can call me Rich for short. 
 This something brand new that I'm starting in my life. 
 I don't have any clue how to code and I'm excited to learn and push myself.
